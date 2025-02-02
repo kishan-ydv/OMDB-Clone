@@ -1,8 +1,7 @@
 
 # IMDB CLONE
 
-- View this WebPage : https://omseervi098.github.io/IMDB_Clone
-
+- View this WebPage : [https://kishan-ydv.github.io/OMDB-Clone](https://kishan-ydv.github.io/OMDB-Clone/)
 - Clone of IMDB using OMDB API
 
 
